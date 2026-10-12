@@ -1,0 +1,6 @@
+{
+  "name": "Dentora Dental Clinic",
+  "description": "Experience comfortable dental care with Dentora. Modern technology, gentle hands, and transparent pricing in Portland, OR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
